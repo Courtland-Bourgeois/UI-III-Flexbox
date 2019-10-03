@@ -147,11 +147,6 @@ header .logo {
     padding: 40px 0;
 }
 
-.facts-content{
-    display: flex;
-    flex-direction: column;
-}
-
 .facts-content-text {
     margin-right: 45px;
 }
